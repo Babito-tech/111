@@ -1,0 +1,16 @@
+执行日期：2022-07-05 16:12:32
+order|bonus|1【查询是否到账开始】
+执行日期：2022-07-05 16:12:32
+gas费order_id："1"
+执行日期：2022-07-05 16:12:32
+分红领取-支付gas费回调,付款信息：{"user_id":18,"atm_money_type":6,"atm_money":"52.50000000","tax_fee":0,"money":"52.50000000","status":1,"create_time":1657037552,"atm_address":"0x9d640fa1abbab0a7dafbc76100a09062c41d6bea","chain_name":""}
+执行日期：2022-07-05 16:12:32
+分红领取-支付gas费回调{"code":1,"msg":"\u9886\u53d6\u6210\u529f","data":null}
+执行日期：2022-07-05 16:12:42
+order|bonus|2【查询是否到账开始】
+执行日期：2022-07-05 16:12:42
+gas费order_id："2"
+执行日期：2022-07-05 16:12:42
+分红领取-支付gas费回调,付款信息：{"user_id":30,"atm_money_type":6,"atm_money":"52.50000000","tax_fee":0,"money":"52.50000000","status":1,"create_time":1657037562,"atm_address":"0xab87a677773dc6117d7368345f7e9a7437db2f87","chain_name":""}
+执行日期：2022-07-05 16:12:42
+分红领取-支付gas费回调{"code":1,"msg":"\u9886\u53d6\u6210\u529f","data":null}
